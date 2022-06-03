@@ -23,23 +23,11 @@ a{
     display: block;
     margin-bottom: 35px;
 }
+
 .image1{
-    width:345px;
-    border-radius: 60px;
-    height:690px;
-    background-color: blueviolet;
-    margin: 0 auto 52px;
-}
-.image2{
-    width:800px;
-    height:250px;
-    background-color: rgb(255, 187, 77);
     margin: 20px auto;
 }
-.image3{
-    width:40px;
-    height:50px;
-    background-color: rgb(255, 240, 216);
+.image2{
     margin: 0 auto;
 }
 h2{
